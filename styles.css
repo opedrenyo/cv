@@ -1,0 +1,62 @@
+html, body {
+    margin: 0px;
+    height: 100vh;
+    font-family: "Goudy Old Style";
+}
+
+.welcome-container {
+    min-height: 100vh;
+    text-align: center;
+    background-color: #96bd93bd;
+    align-items: center;
+    text-align: center;
+}
+
+.description-container {
+    min-height: 100vh;
+    padding-left: 5vh;
+}
+
+.careerpath-container {
+    min-height: 100vh;
+    background-color: #548e87b1;
+    padding-left: 5vh;
+}
+
+.projects-container {
+    min-height: 100vh;
+    background-color: #0b2027;
+    padding-left: 5vh;
+}
+
+.icons {
+    position: relative;
+    top: 1vh;
+}
+
+.text {
+    position: relative;
+    top: 40vh;
+
+}
+
+.title{
+    margin: 0;
+    position: relative;
+    top: 3vh;
+
+}
+
+.description-table {
+    max-width: 90%;
+    position: relative;
+    top: 5vh;
+
+}
+
+.quotes-description{
+    position: relative;
+    margin-top: 7vh;
+}
+
+
