@@ -1,7 +1,7 @@
 html, body {
     margin: 0px;
     height: 100vh;
-    font-family: "Goudy Old Style";
+    font-family: "Goudy Old Style", Garamond, "Big Caslon"," Times New Roman", serif;
 }
 
 .welcome-container {
