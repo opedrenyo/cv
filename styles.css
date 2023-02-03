@@ -27,6 +27,7 @@ html, body {
     min-height: 100vh;
     background-color: #0b2027;
     padding-left: 5vh;
+    color: white;
 }
 
 .icons {
@@ -62,4 +63,8 @@ html, body {
     margin-top: 7vh;
 }
 
+.lorem-ipsum {
+    position:relative;
+    top: 3vh;
+}
 
